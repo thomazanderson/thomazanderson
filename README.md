@@ -1,7 +1,5 @@
-### Hello, I’m Thomaz Barbosa.
-
+### Hello, I’m Thomaz Barbosa!
 I'm currently focused on learning more about coding and development.
-
 ---
 
 ### About Me
