@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hello, I’m Thomaz Barbosa.
 
-<!--
-**thomazanderson/thomazanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently focused on learning more about coding and development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Background: Social Cientist | PhD in Public Administration 
+- Currently developing skills in: Front-End Web Development
+- Interested in: Public Sector | Open Government | Societal Initiatives
+
+---
+
+### Contact
+
+- Email: [thomazanders@gmail.com](mailto:thomazanders@gmail.com)
+- LinkedIn: [/thomazbarbosa/](https://www.linkedin.com/in/thomazbarbosa/)
+
+---
+
+Thank you for visiting my GitHub profile!
